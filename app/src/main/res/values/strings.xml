@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Corgi World</string>
+    <string name="what_do_you">What do you want?</string>
+    <string name="Weather">Weather</string>
+    <string name="My_corgi">My corgi</string>
+    <string name="For_a_walk">For a walk</string>
+    <string name="corgi_world">Corgi world</string>
+    <string name="map">Map</string>
+    <string name="todo">TODO</string>
+
+</resources>

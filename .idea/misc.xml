@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Mobile-application/app/src/main/res/layout/activity_notes.xml" value="0.23854166666666668" />
+        <entry key="..\:/Mobile-application/app/src/main/res/layout/activity_weather.xml" value="0.10729166666666666" />
+        <entry key="..\:/corgiworld2/app/src/main/res/drawable-v24/header.xml" value="0.1" />
+        <entry key="..\:/corgiworld2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.133" />
+        <entry key="..\:/corgiworld2/app/src/main/res/drawable-v24/rectangle_1.xml" value="0.202" />
+        <entry key="..\:/corgiworld2/app/src/main/res/drawable-v24/rectangle_2.xml" value="0.219" />
+        <entry key="..\:/corgiworld2/app/src/main/res/drawable-v24/rounded_corner.xml" value="0.202" />
+        <entry key="..\:/corgiworld2/app/src/main/res/drawable/button_menu.xml" value="0.1" />
+        <entry key="..\:/corgiworld2/app/src/main/res/drawable/ic_home.xml" value="0.1" />
+        <entry key="..\:/corgiworld2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.133" />
+        <entry key="..\:/corgiworld2/app/src/main/res/drawable/ic_map.xml" value="0.1475" />
+        <entry key="..\:/corgiworld2/app/src/main/res/drawable/ic_weather.xml" value="0.1475" />
+        <entry key="..\:/corgiworld2/app/src/main/res/drawable/row.xml" value="0.1905" />
+        <entry key="..\:/corgiworld2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/corgiworld2/app/src/main/res/layout/activity_map.xml" value="0.1" />
+        <entry key="..\:/corgiworld2/app/src/main/res/layout/activity_notes.xml" value="0.25416666666666665" />
+        <entry key="..\:/corgiworld2/app/src/main/res/layout/activity_weather.xml" value="0.264" />
+        <entry key="..\:/corgiworld2/app/src/main/res/layout/button_menu.xml" value="0.10916919959473151" />
+        <entry key="..\:/corgiworld2/app/src/main/res/layout/content_main.xml" value="0.21467391304347827" />
+        <entry key="..\:/corgiworld2/app/src/main/res/layout/fragment_button_menu.xml" value="0.264" />
+        <entry key="..\:/corgiworld2/app/src/main/res/layout/keyboard.xml" value="0.11510416666666666" />
+        <entry key="..\:/corgiworld2/app/src/main/res/layout/row.xml" value="0.25416666666666665" />
+        <entry key="..\:/corgiworld2/app/src/main/res/menu/menu_main.xml" value="0.264" />
+        <entry key="..\:/corgiworld2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
