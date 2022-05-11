@@ -7,5 +7,7 @@
     <string name="corgi_world">Corgi world</string>
     <string name="map">Map</string>
     <string name="todo">TODO</string>
+    <string name="ed_title">Title</string>
+    <string name="ed_desc">Content</string>
 
 </resources>

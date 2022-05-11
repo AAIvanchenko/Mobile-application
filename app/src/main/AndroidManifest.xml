@@ -10,9 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Corgiworld">
         <activity
+            android:name=".EditActivity"
+            android:exported="false"
+            android:theme="@style/Theme.Corgiworld.NoActionBar" />
+        <activity
             android:name=".NotesActivity"
             android:exported="false"
-            android:theme="@style/Theme.Corgiworld.NoActionBar"/>
+            android:theme="@style/Theme.Corgiworld.NoActionBar" />
         <activity
             android:name=".WeatherActivity"
             android:exported="false"
