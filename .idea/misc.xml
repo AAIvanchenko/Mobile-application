@@ -3,12 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Mobile-application/app/src/main/res/drawable/ic_map.xml" value="0.156" />
         <entry key="..\:/Mobile-application/app/src/main/res/drawable/ic_save_background.xml" value="0.236" />
         <entry key="..\:/Mobile-application/app/src/main/res/drawable/ic_save_foreground.xml" value="0.2445" />
         <entry key="..\:/Mobile-application/app/src/main/res/layout/activity_edit.xml" value="0.25" />
         <entry key="..\:/Mobile-application/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Mobile-application/app/src/main/res/layout/activity_map.xml" value="0.22916666666666666" />
         <entry key="..\:/Mobile-application/app/src/main/res/layout/activity_notes.xml" value="0.152" />
-        <entry key="..\:/Mobile-application/app/src/main/res/layout/activity_weather.xml" value="0.10729166666666666" />
+        <entry key="..\:/Mobile-application/app/src/main/res/layout/activity_weather.xml" value="0.1" />
         <entry key="..\:/Mobile-application/app/src/main/res/layout/rc_item.xml" value="0.2115036231884058" />
         <entry key="..\:/corgiworld2/app/src/main/res/drawable-v24/header.xml" value="0.1" />
         <entry key="..\:/corgiworld2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.133" />
